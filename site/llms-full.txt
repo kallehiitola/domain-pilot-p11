@@ -1,0 +1,26 @@
+# Carpet roll calculator
+
+> Estimate full-width strips and linear roll length for a rectangular room. This distinguishes the area you cover from the carpet area you buy.
+
+## Calculator
+- [Open the calculator](https://measurepuff.com/): A 5 × 4 m room, a 4 m roll and 0.10 m trimming at each end need 5.20 linear metres, or 20.80 m² of carpet.
+
+## Method
+Divide room width by roll width and round up to whole strips. Add trimming allowance at both ends of each strip, then multiply by strip count. If changing the common lay direction is allowed, compare both room orientations and use the smaller linear length.
+
+## Limits
+All strips use one common direction. Leave rotation off when pile direction, matching or the installation plan fixes the lay. Stairs, irregular rooms, doorways, pattern repeats, joins and reusing offcuts require an installer’s cutting plan. Supplier selling increments are not included.
+
+## Supporting pages
+- [Method and assumptions](https://measurepuff.com/method/)
+- [About, editorial responsibility and privacy](https://measurepuff.com/about/)
+
+## Sources
+- [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+
+## Worked examples
+### Example 1
+A 5 × 4 m room, a 4 m roll and 0.10 m trimming at each end need 5.20 linear metres, or 20.80 m² of carpet.
+
+### Example 2
+A 5 × 5 m room from a 4 m roll needs two 5 m strips: 10 linear metres, despite a floor area of 25 m².
