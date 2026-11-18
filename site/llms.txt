@@ -5,6 +5,9 @@
 ## Calculator
 - [Open the calculator](https://measurepuff.com/): A 5 × 4 m room, a 4 m roll and 0.10 m trimming at each end need 5.20 linear metres, or 20.80 m² of carpet.
 
+## Guide
+- [How to carpet roll calculator](https://measurepuff.com/guide/): measurement inputs, formula, assumptions, limits and a worked example.
+
 ## Method
 Divide room width by roll width and round up to whole strips. Add trimming allowance at both ends of each strip, then multiply by strip count. If changing the common lay direction is allowed, compare both room orientations and use the smaller linear length.
 
