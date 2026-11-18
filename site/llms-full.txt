@@ -6,7 +6,7 @@
 - [Open the calculator](https://measurepuff.com/): A 5 × 4 m room, a 4 m roll and 0.10 m trimming at each end need 5.20 linear metres, or 20.80 m² of carpet.
 
 ## Guide
-- [How to carpet roll calculator](https://measurepuff.com/guide/): measurement inputs, formula, assumptions, limits and a worked example.
+- [How to work out how much carpet you need](https://measurepuff.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
 
 ## Method
 Divide room width by roll width and round up to whole strips. Add trimming allowance at both ends of each strip, then multiply by strip count. If changing the common lay direction is allowed, compare both room orientations and use the smaller linear length.
@@ -20,6 +20,17 @@ All strips use one common direction. Leave rotation off when pile direction, mat
 
 ## Sources
 - [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+
+## Step by step
+1. Measure the longest length and widest width of the room, including door openings and bay windows.
+2. Check which roll widths the shop sells. Carpet is cut from a roll of fixed width, so you buy a length of the full roll width.
+3. Add a trim allowance at each end of every strip for fitting against the walls.
+4. Compare both laying directions. One direction often needs less roll length or fewer seams.
+
+## Common mistakes
+- Ordering by floor area. You pay for the full roll width of every strip, including the off-cut.
+- Placing seams across doorways or main walkways, where they wear fastest.
+- Laying strips with the pile running in different directions, which makes them look like different shades.
 
 ## Worked examples
 ### Example 1
